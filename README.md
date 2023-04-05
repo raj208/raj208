@@ -3,9 +3,6 @@
 <h3 align="center">A Computer Science Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 - 🔭 I’m currently working on [carhouse](https://github.com/raj208/carhouse) and [santhal](https://github.com/raj208/santhal)
 
 - 🌱 I’m currently learning **DSA**
@@ -13,6 +10,8 @@
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **rajendrajfc1021@gmail.com**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
