@@ -7,6 +7,16 @@
 
 <p align="left"> <a href="https://twitter.com/rajendramajhi09" target="blank"><img src="https://img.shields.io/twitter/follow/rajendramajhi09?logo=twitter&style=for-the-badge" alt="rajendramajhi09" /></a> </p>
 
+
+
+
+
+
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 - 🔭 I’m currently working on [carhouse](https://github.com/raj208/carhouse)
 
 - 🌱 I’m currently learning **c++**
@@ -16,6 +26,8 @@
 - 💬 Ask me about **Django**
 
 - 📫 How to reach me **rajendrajfc1021@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,8 +39,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raj208&show_icons=true&locale=en&layout=compact" alt="raj208" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raj208&show_icons=true&locale=en" alt="raj208" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raj208&" alt="raj208" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=raj208&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=raj208&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=raj208&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
