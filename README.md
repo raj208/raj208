@@ -34,3 +34,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=raj208&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=raj208&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=raj208&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Snake animation](https://github.com/Deep0123/Deep0123/blob/output/github-contribution-grid-snake.svg)
