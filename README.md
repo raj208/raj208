@@ -16,13 +16,11 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 🔭 I’m currently working on [carhouse](https://github.com/raj208/carhouse)
+- 🔭 I’m currently working on [carhouse](https://github.com/raj208/carhouse) and [santhal](https://github.com/raj208/santhal)
 
-- 🌱 I’m currently learning **c++**
+- 🌱 I’m currently learning **DSA**
 
-- 🤝 I’m looking for help with [santhal](https://github.com/raj208/santhal)
-
-- 💬 Ask me about **Django**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **rajendrajfc1021@gmail.com**
 
