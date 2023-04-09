@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [carhouse](https://github.com/raj208/carhouse) and [santhal](https://github.com/raj208/santhal)
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **rajendrajfc1021@gmail.com**
+- 📫 How to reach me **vivekbhagat1890@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
